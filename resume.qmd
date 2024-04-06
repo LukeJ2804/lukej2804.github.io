@@ -1,89 +1,69 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Luke Jackson's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+# Luke Jackson
+(986)-231-8344 | lukej28@byui.edu | [LinkedIn](https://www.linkedin.com/in/luke-jackson2804/)
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`August 2022 - December 2026`  
+__Bachelor of Science in Economics, Minor in Data Science__  
+Brigham Young University - Idaho, Rexburg Idaho  
+GPA: 3.9  
+Relevant coursework: Microeconomics, Macroeconomics, Statistics for Economists, Business Analytics, Financial Accounting, Introduction to Excel, Programming with Functions, Data Science Programming, Programming with Databases, and Inquiry and Innovation.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+## Experience
 
-- Sizar
+### Receptionist  
+__International Services BYU-I, Rexburg Idaho__  
+_October 2023 - Present_  
+- Gained communication skills by interacting with students from nearly 100 different countries regarding visa regulations.  
+- Applied in-depth information to complicated individual circumstances.  
+- Understood legal literature about policy created by government organizations.
 
-`1667 - death`
-__Trinity College, Cambridge__
+### Sales Rep  
+__Vantage Marketing Co, Toronto ON__  
+_May 2023 - August 2023_  
+- Demonstrated honesty with customers by maintaining the lowest cancellation rate in the office at 4%.  
+- Ranked top 3 among rookies, demonstrating hard work and commitment.  
+- Managed a self-directed working environment leading to enhanced discipline.
 
-- Fellow
+### Town Maintenance  
+__Vulcan County, Champion AB__  
+_April 2020 - August 2020_  
+- Paid attention to detail even after long hours of work.  
+- Fixed 5 different pieces of equipment to help work move more efficiently, receiving a salary raise after 1 month.
 
+### Senior Lifeguard  
+__Champion Swimming Pool, Champion AB__  
+_July 2017 - August 2020_  
+- Directed team trainings on ever-changing safety protocols.  
+- Taught over 100 students of various ages the fundamentals of water safety.  
+- Performed in high-stress situations during and in prevention of rescues.
 
+## Volunteer
 
-## Awards
+### Full-Time Volunteer Representative  
+__The Church of Jesus Christ of Latter-Day Saints, Toronto ON__  
+_August 2020 - August 2022_  
+- Led two different groups of 20+ volunteers to boost productivity by over 50% in 5 months.  
+- Conducted one-on-one training with new volunteers to implement effective strategies.  
+- Led and prepared training for groups ranging from 12-200 volunteers to increase overall effectiveness, productivity, and group accountability.
 
-`2012`
-President, *Royal Society*, London, UK
+### Find Joy in Christ Facebook Page  
+__Canada Toronto Mission, Toronto ON__  
+_July 2021 - April 2022_  
+- Conducted research and statistical analysis to increase reach by 400% in six months.  
+- Managed a Facebook page with a $40,000 annual advertising budget.  
+- Led team meetings, performed training, and managed communication with followers.
 
-Associate, *French Academy of Science*, Paris, France
+## Relatable Skills
 
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+- Excel
+- Python
+- Power BI
+- Data Analysis and Application
+- Statistics and Databases
+- Professional Writing
+- Interpersonal Intelligence
